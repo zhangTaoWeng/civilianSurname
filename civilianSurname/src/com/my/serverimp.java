@@ -6,7 +6,7 @@ public class serverimp {
 		// TODO Auto-generated method stub
 
 		String kkString ="6666";
-		//6666666663333
+		//66
 	}
 
 }
